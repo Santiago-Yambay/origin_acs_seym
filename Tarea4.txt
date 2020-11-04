@@ -2,3 +2,4 @@ Cedula=0650050594
 nombre=Santiago
 apellido=Yambay
 edad=20
+telefono=0984455991
